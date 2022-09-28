@@ -35,6 +35,10 @@ Using unsupervised machine learning to classify a portfolio of currently tradabl
   - a scatterplot of coin supply vs coins mined
 
   ![2D](https://github.com/lnshewmo/Cryptocurrencies/blob/main/Resources/2d_clusters.png)
+  
+
+The completed code `crypto_clustering.ipynb` is available [here](https://github.com/lnshewmo/Cryptocurrencies/blob/main/crypto_clustering.ipynb)
+  
 
 
 
