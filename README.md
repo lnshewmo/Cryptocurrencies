@@ -14,15 +14,15 @@ Using unsupervised machine learning to classify a portfolio of currently tradabl
 
 1 - The `crypto_data.csv` dataset was cleaned and preprocessed in order to perform PCA (Principal Component Analysis).
 
-2- The resulting dataframe was reduced to 3 dimensions using PCA.
+2 - The resulting dataframe was reduced to 3 dimensions using PCA.
 
 ![pca](https://github.com/lnshewmo/Cryptocurrencies/blob/main/Resources/PCA.png)
 
-3- K-Means analysis was performed using the PCA data to determine the number of clusters (4) and create a prediction model.
+3 - K-Means analysis was performed using the PCA data to determine the number of clusters (4) and create a prediction model.
 
 ![elbow](https://github.com/lnshewmo/Cryptocurrencies/blob/main/Resources/elbow.png)
 
-4- Visualizations were created to show:
+4 - Visualizations were created to show:
   
   - K-means clustering in 3D
   
